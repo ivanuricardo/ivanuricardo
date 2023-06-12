@@ -1,4 +1,4 @@
-## - 👋 Hi! I’m @ivanuricardo
+## 👋 Hi! I’m @ivanuricardo
 - 💞️ Pinned Projects are currently in development.
 
 Reach out if you would like to collaborate!
