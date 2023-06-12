@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivanuricardo
+- 👋 Hi! I’m @ivanuricardo
 - 👀 I’m currently studying tensor methods in Econometrics
 - 💞️ Pinned Projects are currently in development.
 
